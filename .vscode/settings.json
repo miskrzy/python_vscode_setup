@@ -3,7 +3,8 @@
         "source.organizeImports": true
     },
     "python.testing.pytestArgs": [
-        "application/tests"
+        "package_name",
+        "tests"
     ],
     "python.testing.pytestEnabled": true,
     "python.defaultInterpreterPath": ".venv\\Scripts\\python.exe"
